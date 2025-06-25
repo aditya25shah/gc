@@ -22,10 +22,10 @@ DevCascade is a revolutionary AI-powered workflow automation platform that strea
 
 **Transform this:**
 ```
-1. Open GitHub → Check repositories
-2. Switch to Jira → Create ticket
-3. Go to Jenkins → Trigger build  
-4. Open Slack → Notify team
+1. Open GitHub â Check repositories
+2. Switch to Jira â Create ticket
+3. Go to Jenkins â Trigger build  
+4. Open Slack â Notify team
 ```
 
 **Into this:**
@@ -109,14 +109,14 @@ After logging in, users need to connect their development services to enable ful
 1. Navigate to the integrations section in your dashboard
 2. Click **"Connect GitHub"**
 3. Obtain your GitHub Personal Access Token:
-   - Go to GitHub Settings → Developer Settings → Personal Access Tokens
+   - Go to GitHub Settings â Developer Settings â Personal Access Tokens
    - Generate a new token with appropriate permissions
 4. Enter the token to establish the connection
 
 #### Connecting Jira
 1. Click **"Connect Jira"** in the integrations panel
 2. Get your Jira API token:
-   - Access Jira Account Settings → Security → API Tokens
+   - Access Jira Account Settings â Security â API Tokens
    - Create a new API token
 3. Provide the following information:
    - Jira domain URL
@@ -126,7 +126,7 @@ After logging in, users need to connect their development services to enable ful
 #### Connecting Jenkins
 1. Select **"Connect Jenkins"** from the available integrations
 2. Generate your Jenkins API token:
-   - Go to Jenkins User Settings → Configure → API Token
+   - Go to Jenkins User Settings â Configure â API Token
    - Create a new API token
 3. Enter the required details:
    - Jenkins server URL
@@ -359,7 +359,7 @@ For complete interactive API documentation, visit `http://localhost:8000/docs` a
 
 ---
 
-## Get Started Now!
+## Get Started Now! Start Using it
 
 Ready to streamline your development workflow? Get DevCascade running in 5 minutes:
 
@@ -368,4 +368,4 @@ git clone <your-repository-url> && cd <repository-directory>
 pip install -r requirements.txt && python main.py
 ```
 
-Start chatting with your development tools today! 🚀
+Start chatting with your development tools today! ð
